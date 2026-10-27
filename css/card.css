@@ -1,0 +1,58 @@
+/* CSS Document */
+.notice {
+    padding: 15px;
+    background-color: #fafafa;
+    border-left: 6px solid #7f7f84;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+       -moz-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+            box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+}
+.notice-sm {
+    padding: 10px;
+    font-size: 80%;
+}
+.notice-lg {
+    padding: 35px;
+    font-size: large;
+}
+.notice-success {
+     border-color:rgba(105,0,255,0.55);
+	background:rgba(253,253,253,1.00) !important;
+}
+.notice-success>strong {
+    color: #80D651;
+}
+.notice-info {
+    border-color:rgba(76,48,251,0.55);
+	background:rgba(253,253,253,1.00) !important;
+}
+.notice-info>strong {
+    color: #45ABCD;
+}
+.notice-warning {
+      border-color:rgba(171,113,255,0.55);
+	background:rgba(253,253,253,1.00) !important;
+}
+.notice-warning>strong {
+    color: #FEAF20;
+}
+.notice-danger {
+    border-color: #d73814;
+}
+.notice-danger>strong {
+    color: #d73814;
+}
+.redondeo{
+	width: 50% !important; height: 40px !important; border-radius: 25px !important;
+}
+.notice-danger {
+      border-color:rgba(54,28,160,0.71);
+	background:rgba(253,253,253,1.00) !important;
+}
+.notice-danger>strong {
+    color: #C10B0E;
+}
+.redondeo-center{
+	width: 100% !important; height: 40px !important; border-radius: 15px !important;
+}

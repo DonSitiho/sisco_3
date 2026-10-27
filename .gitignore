@@ -1,0 +1,21 @@
+#Carpetas de archivos
+/Docs_conocimiento/
+/Docs_respuesta/
+/Documentos/
+/uploads/
+
+/conexion.php
+/ajax/conexion.php
+/ajax/conexion2.php
+/html/conexion.php
+/librerias/conexion.php
+/php/conexion.php
+/php/conexion2.php
+
+/ofnasrio/conexion/conexion.php
+/ofnasrio/documentos/
+/ofnasrio/oficios_firmados/
+
+/images/usuarios/
+/reportes/php/conexion.php
+/vendor/
